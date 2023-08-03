@@ -1,0 +1,32 @@
+label{
+    display:block;
+}
+form{
+    text-align: center;
+    background-color: rgb(255, 255, 3);
+    margin:0px 300px 0px 300px;
+}
+h1{
+    text-align: center;
+}
+#submit{
+    padding: 10px;
+}
+#button{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: chocolate;
+}
+input[type=submit]:hover{
+    background-color:green;
+}
+input[type=button]{
+    background-color: chocolate;
+}
+input[type=button]:hover{
+    background-color:green;
+}
+body{
+    background-image:url(bg1.jpg);
+}
